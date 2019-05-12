@@ -1,2 +1,42 @@
-h1 {text-align: center;}
-body {text-align: center}
+
+body {text-align: center;
+    margin:0;
+}
+h1 {text-align: center;
+    font-family: 'Sofia', cursive;
+    font-size: 3em;
+position: absolute;
+top: 50px;
+left: 500px;}
+
+p {text-align: center;
+    font-family: 'Modak', cursive;
+    font-size: 1.3em;
+    position: absolute;
+    top: 200px;
+    left: 350px;}
+.top-container{
+    position: absolute;
+    height: 600px;
+    width: 100%;
+    background-color: pink;
+    padding: 100px;
+    padding-bottom: 0;
+}
+.tcloud{
+    position: absolute;
+    top: 10px;
+    left: 650px;
+}
+.bcloud{
+    position: absolute;
+    top: 150px;
+    left: 350px;
+
+}
+.mountain{
+    position: absolute;
+    bottom: 20px;
+    left: 300px;
+}
+
